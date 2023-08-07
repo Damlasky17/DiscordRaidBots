@@ -1,0 +1,60 @@
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Discord.Net.Commands.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Discord.Net.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\RestSharp.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\WebSocket4Net.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.xml
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\RestSharp.xml
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.pdb
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Discord.Net.Modules.dll
+c:\users\zturb\onedrive\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\eject\Downloads\bot\Bot\obj\Debug\Bot.exe
+C:\Users\eject\Downloads\bot\Bot\obj\Debug\Bot.pdb
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Bot.exe
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Bot.pdb
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Discord.Net.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Discord.Net.Modules.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\RestSharp.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\WebSocket4Net.dll
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\eject\Downloads\bot\Bot\bin\Debug\RestSharp.xml
+C:\Users\eject\Downloads\bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Bot.exe.config
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\obj\Debug\Bot.exe
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\obj\Debug\Bot.pdb
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Bot.exe
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Bot.pdb
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Discord.Net.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Discord.Net.Modules.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\RestSharp.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\WebSocket4Net.dll
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\bin\Debug\RestSharp.xml
+C:\Users\eject\Documents\GitHub\DiscordRaidBots\src\latest\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
