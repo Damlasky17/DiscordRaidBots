@@ -70,7 +70,7 @@ Mudock Yatho -  A great discord bot person, one of the coolest selfbots I've eve
 
 Martmists - For helping me learn about web api's and learn about /ack. 
 
-Users from the Discord API server - Helping me with problems that occured along the way.
+Users from the Discord API server - Helping me with problems that occurred along the way.
 
 Discord Developers - Thank you for making discord. For creating the user/bot API; For helping out in certain areas, and telling me **`"It's time to stop"`**.
 
