@@ -123,5 +123,3 @@ All the code that is public is meant to be for educational purposes only and I h
 >When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
 
 More information can be found on the GNU Public License 3.0 at [**/LICENSE**](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/LICENSE)
-
-
